@@ -1,1 +1,7 @@
 This is txt1....
+
+<<<<<<< HEAD
+This is modified...
+=======
+this file is modified..
+>>>>>>> branch1
