@@ -1,1 +1,5 @@
-This is  index txt file..
+<<<<<<< HEAD
+This is  index txt file..BBBBBBBBBBBBBBBBBBBB
+=======
+This is  index txt file.. AAAAAAAAAAAAAAAAAAAAAAA
+>>>>>>> hari/branch2
